@@ -142,8 +142,6 @@ my-token/
       events.png
       edge-case-revert.png
 
-
-
 ---
 
 ## Conclusion
